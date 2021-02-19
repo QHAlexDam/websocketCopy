@@ -7,7 +7,7 @@ const pool = new Pool({
   // database: 'projet 3',
   // password: 'postgrespw',
 
-  host: 'exotik-db.postgres.database.azure.com',
+  host: 'testwebsocketserver1.azurewebsites.net',
   database: "postgres",
   user: 'admin_exotik@exotik-db',
   password: 'T79?2m>(CkdMqC5N',
